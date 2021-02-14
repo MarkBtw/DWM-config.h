@@ -27,6 +27,7 @@ Step 6: Do "sudo make clean install".
 Step 7: Now, delete the repository you cloned, restart DWM, and you should now have my custom DWM fork, if any errors occur read below.
 
 ![screenshot](https://user-images.githubusercontent.com/77128566/107889870-b7962980-6f15-11eb-8d17-00bafa9ea7e2.png)
+This is what your screen will look like after you apply my fork of DWM And ST both.
 
 ERROR FIX
 =========
